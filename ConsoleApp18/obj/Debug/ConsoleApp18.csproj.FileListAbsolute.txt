@@ -1,0 +1,7 @@
+C:\Users\artem\source\repos\ConsoleApp18\bin\Debug\ConsoleApp18.exe.config
+C:\Users\artem\source\repos\ConsoleApp18\bin\Debug\ConsoleApp18.exe
+C:\Users\artem\source\repos\ConsoleApp18\bin\Debug\ConsoleApp18.pdb
+C:\Users\artem\source\repos\ConsoleApp18\obj\Debug\ConsoleApp18.csproj.AssemblyReference.cache
+C:\Users\artem\source\repos\ConsoleApp18\obj\Debug\ConsoleApp18.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\ConsoleApp18\obj\Debug\ConsoleApp18.exe
+C:\Users\artem\source\repos\ConsoleApp18\obj\Debug\ConsoleApp18.pdb
